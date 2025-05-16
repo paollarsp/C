@@ -1,3 +1,16 @@
+/*
+Escrever um algoritmo que leia o
+código do canditado em um voto.
+Calcule e escreva: total de votos 
+para canditados, total de votos 
+nulos e total de votos em branco.
+• 1,2,3,4 = voto para respectivos 
+canditados 
+• qualquer número sem ser o 1,2,3,4,5 = voto nulo
+• 5 = voto em branco
+O conjunto finalizador de votos é 0
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <locale.h>
