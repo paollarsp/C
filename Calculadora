@@ -1,8 +1,9 @@
 /*
 Algoritmo de uma calculadora, na linguagem C, que o usuário seleciona a operação matemática e informa os valores, 
-podendo realizar uma nova operação, ou não, logo após.#include <stdio.h>
+podendo realizar uma nova operação, ou não, logo após.
 */
 
+#include <stdio.h>
 #include <stdlib.h>
 #include <locale.h>
 #include <math.h>
