@@ -1,9 +1,6 @@
 
 /*
-PROJETO : Jogo da velha
 OBJETIVO: Escrever um algoritmo que simule o jogo da velha
-AUTORES: Paolla Ribeiro 
-DATA: 18/11/2024
 */
 
 #include <stdio.h>
