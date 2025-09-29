@@ -1,3 +1,9 @@
+// Crie um programa ( MEGA SENA ) em linguagem C que sorteie 6 números com os critérios que:
+// - Os números não podem ser iguais entre eles
+// - Nenhum dos números podem ser 0
+// - Os números a serem sorteados são de 1 a 60 
+// - Utilize If apenas
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<locale.h>
